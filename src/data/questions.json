@@ -26,12 +26,7 @@
     },
     {
       "question": "How does data flow naturally in React apps?",
-      "options": [
-        "From parents to children",
-        "From children to parents",
-        "Both ways",
-        "The developers decides"
-      ],
+      "options": ["From parents to children", "From children to parents", "Both ways", "The developers decides"],
       "correctOption": 0,
       "points": 10
     },
@@ -54,12 +49,7 @@
     },
     {
       "question": "What triggers a UI re-render in React?",
-      "options": [
-        "Running an effect",
-        "Passing props",
-        "Updating state",
-        "Adding event listeners to DOM elements"
-      ],
+      "options": ["Running an effect", "Passing props", "Updating state", "Adding event listeners to DOM elements"],
       "correctOption": 2,
       "points": 20
     },
@@ -115,12 +105,7 @@
     },
     {
       "question": "An effect will always run on the initial render.",
-      "options": [
-        "True",
-        "It depends on the dependency array",
-        "False",
-        "In depends on the code in the effect"
-      ],
+      "options": ["True", "It depends on the dependency array", "False", "In depends on the code in the effect"],
       "correctOption": 0,
       "points": 30
     },
